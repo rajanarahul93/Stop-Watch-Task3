@@ -1,6 +1,6 @@
 <h1>Stop Watch</h1> 
 
-**Web link** - https://avinash201199.github.io/stopwatch/
+
 
 - **Time** is the most essential part of everyone's life and keeping track of this time is equally important.
   <br>
@@ -191,21 +191,6 @@ $ git push -u origin BranchName
 
 
 
->If you want this project then go ahead. Fork and clone it, and make changes according to you. After that, you can host it on Github using Github pages.
-For any help reach me on **social media link** in profile readme. https://www.instagram.com/lets__code/
-<br><br>
-
-<h2>Connect with me</h2>
-<br>
-<a href="https://www.instagram.com/lets__code/"><img src="https://img.icons8.com/color/50/000000/instagram-new--v2.png"</img></a>
-<a href="https://www.linkedin.com/in/avinash-singh-071b79175/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"</img></a>
-<a href="https://github.com/avinash201199"><img src="https://img.icons8.com/color/48/000000/github--v3.png"</img></a>
 
 
-### Thank you for your valuable contribution!
 
-## Our Contributors
-
-<a href="https://github.com/avinash201199/stopwatch/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=avinash201199/stopwatch" />
-</a>
